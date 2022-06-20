@@ -4,7 +4,7 @@ import React from "react"; //imports react
 import ReactDOM from "react-dom";
 
 //task 2
-const title = "";
+const title = "different value";
 
 const showBackground = true;
 const background = (
