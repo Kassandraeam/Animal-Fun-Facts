@@ -12,7 +12,7 @@ export const animals = {
       facts: ['Starfish can have up to 40 arms!', 'Starfish have no brain and no blood!', 'Starfish can regenerate their own arms!']
     },
     shark: {
-      image'/images/lobster.jpg',
+      image: '/images/lobster.jpg',
       facts: ['Sharks are mean', 'Fish are friends, not food.', 'testing']
     }
   };
